@@ -57,7 +57,7 @@ section {
 }
 
 #home {
-  background-color: #f4f4f4;
+  background-color: aqua;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -133,7 +133,7 @@ section {
 }
 
 #booking {
-  background-color: #f4f4f4;
+  background-color: aqua;
   text-align: center;
 }
 
